@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>SalesQuote2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>SalesQuote2</key>
+		<dict>
+			<key>Configuration</key>
+			<data>
+			UoSjzaUYwNDyVdVF4Zt/bjKhR4/I/tsgdo8Eg6nJcrU=
+			</data>
+			<key>Event</key>
+			<data>
+			VDHARtMOfzLCzICZWK3R51ea0QSjqo/EhG6X168BzHk=
+			</data>
+			<key>Opportunity</key>
+			<data>
+			QT37D1yClRwKA8PZUq7gtsoTxshMHTiYDm+wzWXCNpY=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
