@@ -1,530 +1,0 @@
-TSalesQuote2
-v7
-r0
-t308113471.475670
-cCheck dependencies
-cProcessInfoPlistFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist SalesQuote2-Info.plist
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-cProcessPCH /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch SalesQuote2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cDataModelVersionCompile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
-c000000004C494D260000000000000110
-t1279872294
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-c000000004BD2002300000000001D2E00
-t1272053795
-s1912320
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
-c000000004BD1FFED000000000000046B
-t1272053741
-s1131
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BD1CD90000000000026F020
-t1272040848
-s2551840
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BD1FFC200000000002A96A0
-t1272053698
-s2791072
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BD1FF9E0000000000001355
-t1272053662
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004BD20412000000000000098F
-t1272054802
-s2447
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004BD20471000000000222E640
-t1272054897
-s35841600
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
-c000000004BD1CFC10000000000001A1A
-t1272041409
-s6682
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.h
-c000000004CAD301A0000000000000360
-t1286418458
-s864
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m
-c000000004CAD301A0000000000000EDB
-t1286418458
-s3803
-i"DetailViewController.h"
-i"RootViewController.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.h
-c000000004CAD301A0000000000000312
-t1286418458
-s786
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m
-c000000004CAD383F00000000000036E7
-t1286420543
-s14055
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.h
-c000000004CAD301A000000000000050F
-t1286418458
-s1295
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m
-c000000004CAD301A0000000000001C95
-t1286418458
-s7317
-i"SalesQuote2AppDelegate.h"
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-c000000004CAD301A0000000000005E48
-t1286418458
-s24136
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-c000000004CAD301A0000000000007657
-t1286418458
-s30295
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-c000000004CAD323700000000000000CC
-t1286418999
-s204
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.h
-c000000004CAD32370000000000000189
-t1286418999
-s393
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m
-c000000004CAD3237000000000000010E
-t1286418999
-s270
-i"Opportunity.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2_Prefix.pch
-c000000004CAD301A0000000000000148
-t1286418458
-s328
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-t2
-s0
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM
-t2
-s0
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailView.nib
-t1286420670
-s1613
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist
-t1286420669
-s814
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/MainWindow.nib
-t1286420670
-s1965
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/PkgInfo
-t1286420669
-s8
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-t2
-s0
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd
-t1286420671
-s136
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o
-t1286420671
-s56180
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o
-t1286420671
-s5344
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o
-t2
-s0
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2.LinkFileList
-c000000004CAD38BD00000000000002D5
-t1286420669
-s725
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o
-t1286420671
-s64276
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o
-t1286420671
-s6312
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m
-c000000004CAD301A000000000000016E
-t1286418458
-s366
-i<UIKit/UIKit.h>
-
-N/var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch
-t1286420670
-s13825936
-
-NSalesQuote2-Info.plist
-c000000004CAD301A00000000000004D6
-t1286418458
-s1238
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies308113469#308113469#0(0"0(0#1#0"8629970944#0"0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113471.303909
-e308113471.475590
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m308113471#308113471#0(0"0(0#0#73"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m8629433600#2181"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113471.355450
-e308113471.445119
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m308113471#308113471#0(0"0(0#0#81"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m8621607904#2180"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113471.193200
-e308113471.355350
-r0
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m: In function '-[RootViewController fetchedResultsController]':
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: 'sortDescriptor' undeclared (first use in this function)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: (Each undeclared identifier is reported only once
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: for each function it appears in.)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m: In function '-[RootViewController createSampleData]':
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:323: error: 'SalesQuote2AppDelegate' undeclared (first use in this function)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:323: error: 'appDelegate' undeclared (first use in this function)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:335: error: 'Opportunity' undeclared (first use in this function)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:335: error: 'newOpp' undeclared (first use in this function)
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:336: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:341: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:346: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:351: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:356: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:361: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:366: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:371: error: expected expression before ')' token
-o/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:376: error: expected expression before ')' token
-o{standard input}:828:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"
-o{standard input}:828:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
-o{standard input}:822:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000008$pb"
-o{standard input}:822:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:812:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000008$pb"
-o{standard input}:812:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
-o{standard input}:806:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000008$pb"
-o{standard input}:806:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
-o{standard input}:753:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000007$pb"
-o{standard input}:753:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
-o{standard input}:741:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
-o{standard input}:741:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
-o{standard input}:732:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000007$pb"
-o{standard input}:732:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
-o{standard input}:724:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000007$pb"
-o{standard input}:724:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
-o{standard input}:718:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000007$pb"
-o{standard input}:718:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"
-o{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
-o{standard input}:703:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000007$pb"
-o{standard input}:703:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000007$pb"
-o{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
-o{standard input}:688:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000007$pb"
-o{standard input}:688:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:678:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000007$pb"
-o{standard input}:678:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
-o{standard input}:672:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000007$pb"
-o{standard input}:672:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000006$pb"
-o{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
-o{standard input}:625:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000006$pb"
-o{standard input}:625:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
-o{standard input}:617:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000006$pb"
-o{standard input}:617:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
-o{standard input}:609:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000006$pb"
-o{standard input}:609:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
-o{standard input}:606:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"
-o{standard input}:606:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
-o{standard input}:595:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"
-o{standard input}:595:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
-o{standard input}:550:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"
-o{standard input}:550:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
-o{standard input}:541:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"
-o{standard input}:541:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
-o{standard input}:534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000005$pb"
-o{standard input}:534:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
-o{standard input}:528:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000005$pb"
-o{standard input}:528:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:500:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000004$pb"
-o{standard input}:500:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
-o{standard input}:494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000004$pb"
-o{standard input}:494:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
-o{standard input}:488:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000004$pb"
-o{standard input}:488:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:456:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
-o{standard input}:456:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
-o{standard input}:450:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:450:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
-o{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
-o{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
-o{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
-o{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
-o{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
-o{standard input}:417:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:417:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
-o{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
-o{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
-o{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
-o{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
-o{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
-o{standard input}:372:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"
-o{standard input}:372:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
-o{standard input}:369:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"
-o{standard input}:369:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
-o{standard input}:357:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
-o{standard input}:357:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
-o{standard input}:351:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
-o{standard input}:351:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
-o{standard input}:347:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
-o{standard input}:347:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
-o{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
-o{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
-o{standard input}:334:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
-o{standard input}:334:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
-o{standard input}:328:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:328:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:320:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
-o{standard input}:320:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
-o{standard input}:314:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:314:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:303:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
-o{standard input}:303:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:297:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
-o{standard input}:297:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
-o{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
-o{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
-o{standard input}:280:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
-o{standard input}:280:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
-o{standard input}:246:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
-o{standard input}:246:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
-o{standard input}:240:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
-o{standard input}:240:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
-o{standard input}:233:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
-o{standard input}:233:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
-o{standard input}:226:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
-o{standard input}:226:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
-o{standard input}:215:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
-o{standard input}:215:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
-o{standard input}:209:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000002$pb"
-o{standard input}:209:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
-o{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
-o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
-o{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
-o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
-o{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
-o{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
-o{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
-o{standard input}:86:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
-o{standard input}:86:symbol: "LC1" can't be undefined in a subtraction expression
-o{standard input}:83:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
-o{standard input}:83:symbol: "LC0" can't be undefined in a subtraction expression
-o{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
-o{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
-o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
-o{standard input}:65:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
-o{standard input}:unknown:Undefined local symbol LC0
-o{standard input}:unknown:Undefined local symbol LC1
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
-lSLF07#2@79"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113471#308113471#0(21424"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m: In function '-[RootViewController fetchedResultsController]':/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: 'sortDescriptor' undeclared (first use in this function)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: (Each undeclared identifier is reported only once/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:229: error: for each function it appears in.)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m: In function '-[RootViewController createSampleData]':/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:323: error: 'SalesQuote2AppDelegate' undeclared (first use in this function)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:323: error: 'appDelegate' undeclared (first use in this function)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:335: error: 'Opportunity' undeclared (first use in this function)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:335: error: 'newOpp' undeclared (first use in this function)/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:336: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:341: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:346: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:351: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:356: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:361: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:366: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:371: error: expected expression before ')' token/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m:376: error: expected expression before ')' token{standard input}:828:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"{standard input}:828:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:822:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000008$pb"{standard input}:822:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:812:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000008$pb"{standard input}:812:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:806:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000008$pb"{standard input}:806:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:753:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000007$pb"{standard input}:753:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:741:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:741:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:732:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000007$pb"{standard input}:732:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:724:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000007$pb"{standard input}:724:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:718:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000007$pb"{standard input}:718:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:703:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000007$pb"{standard input}:703:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000007$pb"{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression{standard input}:688:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000007$pb"{standard input}:688:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:678:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000007$pb"{standard input}:678:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:672:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000007$pb"{standard input}:672:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000006$pb"{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression{standard input}:625:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000006$pb"{standard input}:625:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:617:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000006$pb"{standard input}:617:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:609:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000006$pb"{standard input}:609:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:606:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"{standard input}:606:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:595:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"{standard input}:595:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:550:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"{standard input}:550:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:541:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"{standard input}:541:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000005$pb"{standard input}:534:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:528:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000005$pb"{standard input}:528:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:500:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000004$pb"{standard input}:500:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000004$pb"{standard input}:494:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:488:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000004$pb"{standard input}:488:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:456:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:456:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:450:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" minus "L00000000003$pb"{standard input}:450:symbol: "L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:417:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"{standard input}:417:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:372:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"{standard input}:372:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:369:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"{standard input}:369:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:357:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:357:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:351:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:351:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:347:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:347:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:334:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:334:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:328:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"{standard input}:328:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:320:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:320:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:314:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000003$pb"{standard input}:314:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:303:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:303:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:297:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:297:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:280:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:280:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:246:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:246:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:240:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:240:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:233:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:233:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:226:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:226:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:215:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:215:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:209:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" minus "L00000000002$pb"{standard input}:209:symbol: "L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:86:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:86:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:83:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.fetchedResultsController$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.detailViewController$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3414(4@56"'sortDescriptor' undeclared (first use in this function)308113471#135#141#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#229#0#229#0#43"'*' undeclared (first use in this function)0(4@64"'SalesQuote2AppDelegate' undeclared (first use in this function)308113471#655#149#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#323#0#323#0#43"'*' undeclared (first use in this function)0(4@53"'appDelegate' undeclared (first use in this function)308113471#804#138#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#323#0#323#0#43"'*' undeclared (first use in this function)0(4@53"'Opportunity' undeclared (first use in this function)308113471#942#138#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#335#0#335#0#43"'*' undeclared (first use in this function)0(4@48"'newOpp' undeclared (first use in this function)308113471#1080#133#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#335#0#335#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before ')' token308113471#1213#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#336#0#336#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1334#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#341#0#341#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1455#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#346#0#346#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1576#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#351#0#351#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1697#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#356#0#356#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1818#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#361#0#361#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#1939#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#366#0#366#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#2060#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#371#0#371#0#19"expected * before *0(4@36"Expected expression before ')' token308113471#2181#121#0(6@71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m308113343#376#0#376#0#19"expected * before *0(0#0#71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m8632674912#2177"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o1#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113471.149515
-e308113471.303808
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m308113471#308113471#0(0"0(0#0#75"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m8628127072#2185"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113471.050235
-e308113471.149413
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m308113471#308113471#0(0"0(0#0#49"/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m8625298016#2141"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-s308113469.394981
-e308113470.110973
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-lSLF07#2@25"CompileXIB DetailView.xib308113469#308113470#0(0"0(0#0#57"/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib8623430624#648"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailView.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-s308113469.393866
-e308113470.084700
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib308113469#308113470#0(0"0(0#0#57"/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib8624956512#648"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/MainWindow.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CDataModelVersionCompile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-s308113471.046605
-e308113471.193028
-r1
-xDataModelVersionCompile
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-lSLF07#2@109"DataModelVersionCompile build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd SalesQuote2.xcdatamodeld308113471#308113471#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld8630302944#472"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd0#
-
-CGenerateDSYMFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-r0
-
-CLd /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2 normal i386
-r0
-
-CProcessInfoPlistFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist SalesQuote2-Info.plist
-s308113469.377338
-e308113469.393763
-r1
-xProcessInfoPlistFile
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist
-xSalesQuote2-Info.plist
-lSLF07#2@30"Process SalesQuote2-Info.plist308113469#308113469#0(0"0(0#0#65"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2-Info.plist8626718784#565"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility SalesQuote2-Info.plist -genpkginfo /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist0#
-
-CProcessPCH /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch SalesQuote2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s308113470.111098
-e308113471.046426
-r1
-xProcessPCH
-x/var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch
-xSalesQuote2_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile SalesQuote2_Prefix.pch308113470#308113471#0(0"0(0#0#65"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2_Prefix.pch8632876352#2025"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2_Prefix.pch -o /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch0#
-
-CTouch /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-r0
-

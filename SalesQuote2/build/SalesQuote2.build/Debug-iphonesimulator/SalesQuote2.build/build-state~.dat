@@ -1,1067 +1,0 @@
-TSalesQuote2
-v7
-r0
-t309615761.235466
-cCheck dependencies
-cProcessInfoPlistFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist SalesQuote2-Info.plist
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib
-cCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_main_en.jpg pg_patient_monitors_main_en.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mx800_01.jpg sg_monitoring_mx800_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm1_01.jpg sg_monitoring_vm1_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm4_01.jpg sg_monitoring_vm4_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm6_01.jpg sg_monitoring_vm6_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm8_01.jpg sg_monitoring_vm8_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vs3_01.jpg sg_monitoring_vs3_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vsv_01.jpg sg_monitoring_vsv_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_x2_01.jpg sg_monitoring_x2_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_01_en.jpg.jpg pg_patient_monitors_01_en.jpg.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_suresigns_vs2_01_en.jpg pg_suresigns_vs2_01_en.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp2_01.jpg sg_monitoring_mp2_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5_01.jpg sg_monitoring_mp5_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5sc_01.jpg sg_monitoring_mp5sc_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5t_01.jpg sg_monitoring_mp5t_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp20.jpg sg_monitoring_mp20.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp40_01.jpg sg_monitoring_mp40_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp60_01.jpg sg_monitoring_mp60_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp90_01.jpg sg_monitoring_mp90_01.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/News_image245x250.jpg News_image245x250.jpg
-cCpResource build/Debug-iphonesimulator/SalesQuote2.app/gear-picture.jpg gear-picture.jpg
-cProcessPCH /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch SalesQuote2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cDataModelVersionCompile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewTabController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueCentralMonitoring.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMonitorOverview.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SuresignMonitorOverview.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMeasurementModules.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/ProductConfiguration.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2 normal i386
-cGenerateDSYMFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-cTouch /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
-c000000004C494D260000000000000110
-t1279872294
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-c000000004BD2002300000000001D2E00
-t1272053795
-s1912320
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
-c000000004BD1FFED000000000000046B
-t1272053741
-s1131
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BD1CD90000000000026F020
-t1272040848
-s2551840
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BD1FFC200000000002A96A0
-t1272053698
-s2791072
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BD1FF9E0000000000001355
-t1272053662
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
-c000000004BD1D83E000000000000017D
-t1272043582
-s381
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
-c000000004BD1D85F0000000000185260
-t1272043615
-s1593952
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004BD20412000000000000098F
-t1272054802
-s2447
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004BD20471000000000222E640
-t1272054897
-s35841600
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
-c000000004BD1CFC10000000000001A1A
-t1272041409
-s6682
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.h
-c000000004CC36C2C000000000000056F
-t1287875628
-s1391
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-i"Opportunity.h"
-i<MapKit/MapKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m
-c000000004CC36CD90000000000001641
-t1287875801
-s5697
-i"DetailViewController.h"
-i"RootViewController.h"
-i"DetailViewTabController.h"
-i"SalesQuote2AppDelegate.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.h
-c000000004CC33D5C0000000000000145
-t1287863644
-s325
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m
-c000000004CC250E4000000000000058E
-t1287803108
-s1422
-i"DetailViewTabController.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib
-c000000004CC34DFC0000000000007508
-t1287867900
-s29960
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.h
-c000000004CB9BD8C00000000000000F5
-t1287241100
-s245
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m
-c000000004CB9BD8C0000000000000533
-t1287241100
-s1331
-i"IntellivueCentralMonitoring.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.h
-c000000004CB9BADE00000000000000F7
-t1287240414
-s247
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m
-c000000004CB9BADD0000000000000536
-t1287240413
-s1334
-i"IntellivueMeasurementModules.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.h
-c000000004CB9B2D900000000000000F1
-t1287238361
-s241
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m
-c000000004CB9B2D8000000000000052D
-t1287238360
-s1325
-i"IntellivueMonitorOverview.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.h
-c000000004CBB593500000000000000EC
-t1287346485
-s236
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m
-c000000004CBE9B02000000000000112A
-t1287559938
-s4394
-i"ProductConfiguration.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.h
-c000000004CAD301A0000000000000312
-t1286418458
-s786
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m
-c000000004CC2442B0000000000002EEB
-t1287799851
-s12011
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.h
-c000000004CC36DBE000000000000052A
-t1287876030
-s1322
-i<UIKit/UIKit.h>
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m
-c000000004CC36DCE0000000000002924
-t1287876046
-s10532
-i"SalesQuote2AppDelegate.h"
-i"RootViewController.h"
-i"DetailViewController.h"
-i"Opportunity.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.h
-c000000004CB9B51700000000000000ED
-t1287238935
-s237
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m
-c000000004CB9B5150000000000000527
-t1287238933
-s1319
-i"SuresignMonitorOverview.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-c000000004CC37032000000000000F228
-t1287876658
-s61992
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib
-c000000004CB9E39300000000000096E3
-t1287250835
-s38627
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib
-c000000004CB9BD46000000000000E434
-t1287241030
-s58420
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib
-c000000004CC34D790000000000014383
-t1287867769
-s82819
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-c000000004CC24D6D000000000000867D
-t1287802221
-s34429
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/News_image245x250.jpg
-c000000004CB9602700000000000063B6
-t1287217191
-s25526
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib
-c000000004CC249D00000000000005596
-t1287801296
-s21910
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-c000000004CAD323700000000000000CC
-t1286418999
-s204
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.h
-c000000004CAD32370000000000000189
-t1286418999
-s393
-i<CoreData/CoreData.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m
-c000000004CAD3237000000000000010E
-t1286418999
-s270
-i"Opportunity.h"
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2_Prefix.pch
-c000000004CAD301A0000000000000148
-t1286418458
-s328
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib
-c000000004CB9E421000000000000172B
-t1287250977
-s5931
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib
-c000000004CB9B679000000000000C806
-t1287239289
-s51206
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-t1287922961
-s1224
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM
-t1287922961
-s102
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailView.nib
-t1287922958
-s5031
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailViewTabController.nib
-t1287922958
-s1995
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist
-t1287922957
-s858
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueCentralMonitoring.nib
-t1287922959
-s3369
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueMeasurementModules.nib
-t1287922959
-s5004
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueMonitorOverview.nib
-t1287922959
-s8078
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/MainWindow.nib
-t1287922958
-s2000
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/News_image245x250.jpg
-t1287922960
-s25526
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/PkgInfo
-t1287922957
-s8
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/RootView.nib
-t1287922958
-s1023
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-t1287922961
-s66476
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd
-t1287922960
-s136
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SingleProductConfigure.nib
-t1287922959
-s979
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SuresignMonitorOverview.nib
-t1287922960
-s4464
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/gear-picture.jpg
-t1287922960
-s66482
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_01_en.jpg.jpg
-t1287922960
-s21459
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_main_en.jpg
-t1287922960
-s23004
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/pg_suresigns_vs2_01_en.jpg
-t1287922960
-s21917
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp20.jpg
-t1287922960
-s25029
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp2_01.jpg
-t1287922960
-s9856
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp40_01.jpg
-t1287922960
-s14174
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5_01.jpg
-t1287922960
-s31898
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5sc_01.jpg
-t1287922960
-s16913
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5t_01.jpg
-t1287922960
-s18194
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp60_01.jpg
-t1287922960
-s25120
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp90_01.jpg
-t1287922960
-s12277
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mx800_01.jpg
-t1287922960
-s24002
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm1_01.jpg
-t1287922960
-s10824
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm4_01.jpg
-t1287922960
-s35538
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm6_01.jpg
-t1287922960
-s19658
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm8_01.jpg
-t1287922960
-s25110
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vs3_01.jpg
-t1287922960
-s12767
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vsv_01.jpg
-t1287922960
-s11739
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_x2_01.jpg
-t1287922960
-s8643
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o
-t1287922960
-s76444
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewTabController.o
-t1287922960
-s39552
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueCentralMonitoring.o
-t1287922960
-s34652
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMeasurementModules.o
-t1287922961
-s34676
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMonitorOverview.o
-t1287922961
-s34604
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o
-t1287922960
-s5344
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/ProductConfiguration.o
-t1287922961
-s38008
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o
-t1287922960
-s67816
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2.LinkFileList
-c000000004CC4250D0000000000000673
-t1287922957
-s1651
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o
-t1287922960
-s70004
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SuresignMonitorOverview.o
-t1287922961
-s34556
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o
-t1287922960
-s6312
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/gear-picture.jpg
-c000000004CA8787600000000000103B2
-t1286109302
-s66482
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m
-c000000004CAD301A000000000000016E
-t1286418458
-s366
-i<UIKit/UIKit.h>
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_01_en.jpg.jpg
-c000000004CB960E600000000000053D3
-t1287217382
-s21459
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_main_en.jpg
-c000000004CB9B55800000000000059DC
-t1287239000
-s23004
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_suresigns_vs2_01_en.jpg
-c000000004CB96543000000000000559D
-t1287218499
-s21917
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp20.jpg
-c000000004CB9652000000000000061C5
-t1287218464
-s25029
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp2_01.jpg
-c000000004CB9652F0000000000002680
-t1287218479
-s9856
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp40_01.jpg
-c000000004CB9651D000000000000375E
-t1287218461
-s14174
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5_01.jpg
-c000000004CB965250000000000007C9A
-t1287218469
-s31898
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5sc_01.jpg
-c000000004CB965230000000000004211
-t1287218467
-s16913
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5t_01.jpg
-c000000004CB965270000000000004712
-t1287218471
-s18194
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp60_01.jpg
-c000000004CB965150000000000006220
-t1287218453
-s25120
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp90_01.jpg
-c000000004CB964680000000000002FF5
-t1287218280
-s12277
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mx800_01.jpg
-c000000004CB965190000000000005DC2
-t1287218457
-s24002
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm1_01.jpg
-c000000004CB9653E0000000000002A48
-t1287218494
-s10824
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm4_01.jpg
-c000000004CB9653B0000000000008AD2
-t1287218491
-s35538
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm6_01.jpg
-c000000004CB965380000000000004CCA
-t1287218488
-s19658
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm8_01.jpg
-c000000004CB965350000000000006216
-t1287218485
-s25110
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vs3_01.jpg
-c000000004CB9654100000000000031DF
-t1287218497
-s12767
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vsv_01.jpg
-c000000004CB965450000000000002DDB
-t1287218501
-s11739
-
-N/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_x2_01.jpg
-c000000004CB9652C00000000000021C3
-t1287218476
-s8643
-
-N/var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch
-t1286420670
-s13825936
-
-NSalesQuote2-Info.plist
-c000000004CC34E3600000000000004BA
-t1287867958
-s1210
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies309615757#309615757#0(0"0(0#1#0"8626016800#0"0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.692554
-e309615760.875861
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m309615760#309615760#0(0"0(0#0#73"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m8648920000#2181"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewController.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewController.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewTabController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.849612
-e309615760.948843
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewTabController.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m309615760#309615760#0(0"0(0#0#76"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m8637739104#2187"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/DetailViewTabController.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueCentralMonitoring.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.875957
-e309615760.945945
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueCentralMonitoring.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m309615760#309615760#0(0"0(0#0#80"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m8634583456#2195"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueCentralMonitoring.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueCentralMonitoring.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMeasurementModules.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615761.030416
-e309615761.115888
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMeasurementModules.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m309615761#309615761#0(0"0(0#0#81"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m8620890176#2197"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMeasurementModules.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMeasurementModules.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMonitorOverview.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.946053
-e309615761.061367
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMonitorOverview.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m309615760#309615761#0(0"0(0#0#78"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m8634082080#2191"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/IntellivueMonitorOverview.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/IntellivueMonitorOverview.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.752917
-e309615760.849458
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m309615760#309615760#0(0"0(0#0#81"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m8649190592#2180"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld/Opportunity.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/Opportunity.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/ProductConfiguration.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615761.061468
-e309615761.129413
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/ProductConfiguration.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m309615761#309615761#0(0"0(0#0#73"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m8649951840#2181"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/ProductConfiguration.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/ProductConfiguration.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.578531
-e309615760.752814
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m309615760#309615760#0(0"0(0#0#71"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m8649865376#2177"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/RootViewController.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.541911
-e309615760.692297
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m309615760#309615760#0(0"0(0#0#75"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m8650012960#2185"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SalesQuote2AppDelegate.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2AppDelegate.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SuresignMonitorOverview.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.948953
-e309615761.030311
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SuresignMonitorOverview.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m309615760#309615761#0(0"0(0#0#76"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m8631584576#2187"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/SuresignMonitorOverview.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SuresignMonitorOverview.o0#
-
-CCompileC build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s309615760.495805
-e309615760.578395
-r1
-xCompileC
-xbuild/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m309615760#309615760#0(0"0(0#0#49"/Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m8654145984#2141"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-generated-files.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-own-target-headers.hmap -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-all-target-headers.hmap -iquote /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/SalesQuote2-project-headers.hmap -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/include -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources/i386 -I/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/DerivedSources -include /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/main.m -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib
-s309615758.431620
-e309615758.873459
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib
-lSLF07#2@46"CompileXIB Classes/DetailViewTabController.xib309615758#309615758#0(0"0(0#0#78"/Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib8634459488#682"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailViewTabController.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/Classes/DetailViewTabController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-s309615757.478176
-e309615758.431524
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib
-lSLF07#2@25"CompileXIB DetailView.xib309615757#309615758#0(0"0(0#0#57"/Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib8603307648#648"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/DetailView.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib
-s309615758.596291
-e309615759.160163
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib
-lSLF07#2@42"CompileXIB IntellivueCentralMonitoring.xib309615758#309615759#0(0"0(0#0#74"/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib8626469472#682"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueCentralMonitoring.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueCentralMonitoring.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib
-s309615759.160343
-e309615759.798893
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib
-lSLF07#2@43"CompileXIB IntellivueMeasurementModules.xib309615759#309615759#0(0"0(0#0#75"/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib8643484544#684"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueMeasurementModules.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMeasurementModules.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib
-s309615759.258659
-e309615760.123987
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib
-lSLF07#2@40"CompileXIB IntellivueMonitorOverview.xib309615759#309615760#0(0"0(0#0#72"/Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib8642601376#678"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/IntellivueMonitorOverview.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/IntellivueMonitorOverview.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-s309615757.477327
-e309615758.160444
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib309615757#309615758#0(0"0(0#0#57"/Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib8634458528#648"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/MainWindow.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib
-s309615758.160538
-e309615758.596190
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib
-lSLF07#2@23"CompileXIB RootView.xib309615758#309615758#0(0"0(0#0#55"/Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib8644171200#644"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/RootView.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/RootView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib
-s309615758.873555
-e309615759.258561
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib
-lSLF07#2@37"CompileXIB SingleProductConfigure.xib309615758#309615759#0(0"0(0#0#69"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib8611225952#672"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SingleProductConfigure.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/SingleProductConfigure.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib
-s309615759.798987
-e309615760.494776
-r1
-xCompileXIB
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib
-lSLF07#2@38"CompileXIB SuresignMonitorOverview.xib309615759#309615760#0(0"0(0#0#70"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib8641750112#674"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SuresignMonitorOverview.nib /Users/dhruv/iPhoneDevelopment/SalesQuote2/SuresignMonitorOverview.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/News_image245x250.jpg News_image245x250.jpg
-s309615760.206387
-e309615760.227447
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/News_image245x250.jpg
-xNews_image245x250.jpg
-lSLF07#2@26"Copy News_image245x250.jpg309615760#309615760#0(0"0(0#0#64"/Users/dhruv/iPhoneDevelopment/SalesQuote2/News_image245x250.jpg8630434272#543"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/News_image245x250.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/gear-picture.jpg gear-picture.jpg
-s309615760.208727
-e309615760.231811
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/gear-picture.jpg
-xgear-picture.jpg
-lSLF07#2@21"Copy gear-picture.jpg309615760#309615760#0(0"0(0#0#59"/Users/dhruv/iPhoneDevelopment/SalesQuote2/gear-picture.jpg8630171232#538"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/gear-picture.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_01_en.jpg.jpg pg_patient_monitors_01_en.jpg.jpg
-s309615760.140394
-e309615760.206093
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_01_en.jpg.jpg
-xpg_patient_monitors_01_en.jpg.jpg
-lSLF07#2@38"Copy pg_patient_monitors_01_en.jpg.jpg309615760#309615760#0(0"0(0#0#76"/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_01_en.jpg.jpg8636746304#555"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_01_en.jpg.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_main_en.jpg pg_patient_monitors_main_en.jpg
-s309615760.124089
-e309615760.140079
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/pg_patient_monitors_main_en.jpg
-xpg_patient_monitors_main_en.jpg
-lSLF07#2@36"Copy pg_patient_monitors_main_en.jpg309615760#309615760#0(0"0(0#0#74"/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_main_en.jpg8640909792#553"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_patient_monitors_main_en.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/pg_suresigns_vs2_01_en.jpg pg_suresigns_vs2_01_en.jpg
-s309615760.142162
-e309615760.219933
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/pg_suresigns_vs2_01_en.jpg
-xpg_suresigns_vs2_01_en.jpg
-lSLF07#2@31"Copy pg_suresigns_vs2_01_en.jpg309615760#309615760#0(0"0(0#0#69"/Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_suresigns_vs2_01_en.jpg8636217568#548"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/pg_suresigns_vs2_01_en.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp20.jpg sg_monitoring_mp20.jpg
-s309615760.161787
-e309615760.211871
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp20.jpg
-xsg_monitoring_mp20.jpg
-lSLF07#2@27"Copy sg_monitoring_mp20.jpg309615760#309615760#0(0"0(0#0#65"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp20.jpg8634412224#544"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp20.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp2_01.jpg sg_monitoring_mp2_01.jpg
-s309615760.143980
-e309615760.200625
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp2_01.jpg
-xsg_monitoring_mp2_01.jpg
-lSLF07#2@29"Copy sg_monitoring_mp2_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp2_01.jpg8635629440#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp2_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp40_01.jpg sg_monitoring_mp40_01.jpg
-s309615760.197711
-e309615760.211367
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp40_01.jpg
-xsg_monitoring_mp40_01.jpg
-lSLF07#2@30"Copy sg_monitoring_mp40_01.jpg309615760#309615760#0(0"0(0#0#68"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp40_01.jpg8634023488#547"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp40_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5_01.jpg sg_monitoring_mp5_01.jpg
-s309615760.148135
-e309615760.217089
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5_01.jpg
-xsg_monitoring_mp5_01.jpg
-lSLF07#2@29"Copy sg_monitoring_mp5_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5_01.jpg8635436160#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5sc_01.jpg sg_monitoring_mp5sc_01.jpg
-s309615760.150226
-e309615760.202946
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5sc_01.jpg
-xsg_monitoring_mp5sc_01.jpg
-lSLF07#2@31"Copy sg_monitoring_mp5sc_01.jpg309615760#309615760#0(0"0(0#0#69"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5sc_01.jpg8634982400#548"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5sc_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5t_01.jpg sg_monitoring_mp5t_01.jpg
-s309615760.156366
-e309615760.206306
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp5t_01.jpg
-xsg_monitoring_mp5t_01.jpg
-lSLF07#2@30"Copy sg_monitoring_mp5t_01.jpg309615760#309615760#0(0"0(0#0#68"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5t_01.jpg8634553056#547"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp5t_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp60_01.jpg sg_monitoring_mp60_01.jpg
-s309615760.200717
-e309615760.211229
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp60_01.jpg
-xsg_monitoring_mp60_01.jpg
-lSLF07#2@30"Copy sg_monitoring_mp60_01.jpg309615760#309615760#0(0"0(0#0#68"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp60_01.jpg8631596992#547"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp60_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp90_01.jpg sg_monitoring_mp90_01.jpg
-s309615760.203036
-e309615760.215939
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mp90_01.jpg
-xsg_monitoring_mp90_01.jpg
-lSLF07#2@30"Copy sg_monitoring_mp90_01.jpg309615760#309615760#0(0"0(0#0#68"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp90_01.jpg8631238880#547"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mp90_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mx800_01.jpg sg_monitoring_mx800_01.jpg
-s309615760.125270
-e309615760.140206
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_mx800_01.jpg
-xsg_monitoring_mx800_01.jpg
-lSLF07#2@31"Copy sg_monitoring_mx800_01.jpg309615760#309615760#0(0"0(0#0#69"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mx800_01.jpg8640530496#548"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_mx800_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm1_01.jpg sg_monitoring_vm1_01.jpg
-s309615760.126991
-e309615760.140319
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm1_01.jpg
-xsg_monitoring_vm1_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vm1_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm1_01.jpg8640177536#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm1_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm4_01.jpg sg_monitoring_vm4_01.jpg
-s309615760.128783
-e309615760.148021
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm4_01.jpg
-xsg_monitoring_vm4_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vm4_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm4_01.jpg8639793024#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm4_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm6_01.jpg sg_monitoring_vm6_01.jpg
-s309615760.130604
-e309615760.197611
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm6_01.jpg
-xsg_monitoring_vm6_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vm6_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm6_01.jpg8639438944#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm6_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm8_01.jpg sg_monitoring_vm8_01.jpg
-s309615760.132548
-e309615760.150139
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vm8_01.jpg
-xsg_monitoring_vm8_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vm8_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm8_01.jpg8639104512#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vm8_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vs3_01.jpg sg_monitoring_vs3_01.jpg
-s309615760.134435
-e309615760.217727
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vs3_01.jpg
-xsg_monitoring_vs3_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vs3_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vs3_01.jpg8638627808#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vs3_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vsv_01.jpg sg_monitoring_vsv_01.jpg
-s309615760.136335
-e309615760.156266
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_vsv_01.jpg
-xsg_monitoring_vsv_01.jpg
-lSLF07#2@29"Copy sg_monitoring_vsv_01.jpg309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vsv_01.jpg8637985472#546"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_vsv_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CCpResource build/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_x2_01.jpg sg_monitoring_x2_01.jpg
-s309615760.138151
-e309615760.161690
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/SalesQuote2.app/sg_monitoring_x2_01.jpg
-xsg_monitoring_x2_01.jpg
-lSLF07#2@28"Copy sg_monitoring_x2_01.jpg309615760#309615760#0(0"0(0#0#66"/Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_x2_01.jpg8637562272#545"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dhruv/iPhoneDevelopment/SalesQuote2/sg_monitoring_x2_01.jpg /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
-CDataModelVersionCompile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-s309615760.494960
-e309615760.541782
-r1
-xDataModelVersionCompile
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld
-lSLF07#2@109"DataModelVersionCompile build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd SalesQuote2.xcdatamodeld309615760#309615760#0(0"0(0#0#67"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld8655174560#472"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2.xcdatamodeld /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2.momd0#
-
-CGenerateDSYMFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-s309615761.190384
-e309615761.231010
-r1
-xGenerateDSYMFile
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/SalesQuote2.app.dSYM build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2309615761#309615761#0(0"0(0#0#98"/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote28637319072#469"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2 -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app.dSYM0#
-
-CLd /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2 normal i386
-s309615761.129526
-e309615761.190279
-r1
-xLd
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2
-xnormal
-xi386
-lSLF07#2@103"Link /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote2309615761#309615761#0(0"0(0#0#0"8649211328#1040"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -F/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator -filelist /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/SalesQuote2.build/Debug-iphonesimulator/SalesQuote2.build/Objects-normal/i386/SalesQuote2.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework MapKit -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/SalesQuote20#
-
-CProcessInfoPlistFile /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist SalesQuote2-Info.plist
-s309615757.469389
-e309615757.477229
-r1
-xProcessInfoPlistFile
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist
-xSalesQuote2-Info.plist
-lSLF07#2@30"Process SalesQuote2-Info.plist309615757#309615757#0(0"0(0#0#65"/Users/dhruv/iPhoneDevelopment/SalesQuote2/SalesQuote2-Info.plist8626069696#565"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility SalesQuote2-Info.plist -genpkginfo /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app/Info.plist0#
-
-CProcessPCH /var/folders/iK/iK5JFGkdEXOYxwaHDMO+AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SalesQuote2_Prefix-dnfeejdkmbwlpqdldcfobvqnpsrs/SalesQuote2_Prefix.pch.gch SalesQuote2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CTouch /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-s309615761.231108
-e309615761.235414
-r1
-xTouch
-x/Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app
-lSLF07#2@92"Touch /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app309615761#309615761#0(0"0(0#0#0"8634479072#352"    cd /Users/dhruv/iPhoneDevelopment/SalesQuote2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/dhruv/iPhoneDevelopment/SalesQuote2/build/Debug-iphonesimulator/SalesQuote2.app0#
-
